@@ -1,4 +1,4 @@
-from abc import ABC
+from abc import ABC DEF 
 from langchain.llms.base import LLM
 from typing import Optional, List
 from models.loader import LoaderCheckPoint
